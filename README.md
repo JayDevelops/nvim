@@ -132,6 +132,4 @@ cd ~/.config/nvim
 rm -rf .git
 ```
 
-This will allow you to use my Neovim setup without affecting my original repository. 🚀
-
-``
+This will allow you to use my Neovim setup.
